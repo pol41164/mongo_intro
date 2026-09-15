@@ -5,7 +5,7 @@ import LuckyDraw from "./components/LuckyDraw";
 
 const varieties = [
   {
-    name: "愛文芒果促銷",
+    name: "愛文芒果",
     en: "IRWIN",
     season: "6–7 月",
     region: "台南・玉井",
