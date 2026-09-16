@@ -62,7 +62,7 @@ export default function Home() {
             className="animate-fade-up mt-6 max-w-2xl font-display text-4xl leading-[1.3] text-white sm:text-5xl lg:text-6xl"
             style={{ animationDelay: "120ms" }}
           >
-            全日陽光,
+            台灣 玉井日光 666
             <br />
             才捨得摘下這一顆。
           </h1>
