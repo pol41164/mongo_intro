@@ -56,15 +56,15 @@ export default function Home() {
         <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-black/10" />
         <div className="relative z-10 mx-auto w-full max-w-6xl px-6 pb-16">
           <p className="animate-fade-up font-mono text-xs uppercase tracking-[0.3em] text-accent-soft">
-            Sunlit Mango — 台灣芒果直送
+            台灣 玉井日光 666
           </p>
           <h1
             className="animate-fade-up mt-6 max-w-2xl font-display text-4xl leading-[1.3] text-white sm:text-5xl lg:text-6xl"
             style={{ animationDelay: "120ms" }}
           >
-            台灣 玉井日光 666
+            台灣日光芒果
             <br />
-            才捨得摘下這一顆。
+            才捨得摘下這一顆
           </h1>
           <p
             className="animate-fade-up mt-6 max-w-md text-base leading-8 text-white/80"
